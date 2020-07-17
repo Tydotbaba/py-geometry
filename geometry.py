@@ -1,4 +1,5 @@
-""" Help on Names Module
+""" 
+Help on Names Module
 
 NAME: 
 names.py
@@ -9,10 +10,19 @@ DESCRIPTION:
 """
 
 
-#area of a square
+
 def area_of_square(l):
-	#where l = the length of the sides of the square
-	return l ** 2
+	"""
+		Function: area_of_square
+		@args: l -> int, the length of the sides of the square
+		@returns: int
+
+		example: area_of_square(3) -> 9
+	"""
+	try:
+		return l ** 2
+	except Exception as e:
+		raise e
 
 #area of a rectangle
 def area_of_rectangle(l, b):

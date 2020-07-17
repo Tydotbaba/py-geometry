@@ -7,7 +7,7 @@ There are several types of basic shapes which are:
 --> Curved shapes
 
 ```
-##  2D SHAPES
+# 2D SHAPES
 ```
 In geometry, a two-dimensional shape can be defined as a flat plane figure or a shape that has two dimensions – length and width. 
 Two-dimensional or 2-D shapes do not have any thickness and can be measured in only two faces. 
@@ -73,7 +73,7 @@ This finds the perimeter and area of all polygons aside those afore-mentioned
 --> Perimeter of a polygon is found by suming the lengths of all sides
 ```
 
-## 3D SHAPES
+# 3D SHAPES
 ```
 In geometry, a three-dimensional shape can be defined as a solid figure or an object or shape that has three dimensions – length, width and height.Unlike two-dimensional shapes, three-dimensional shapes have thickness or depth.
 
